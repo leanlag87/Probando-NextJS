@@ -1,6 +1,6 @@
 //El trabajo del "layout.js" es envolver todas las páginas de la aplicación
 //y proporcionar una estructura común para ellas.
-import Navbar from "./Navbar";
+import Navbar from "../components/Navbar";
 
 export default function RootLayout({ children }) {
   return (
