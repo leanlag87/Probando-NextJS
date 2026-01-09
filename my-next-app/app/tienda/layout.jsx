@@ -16,7 +16,7 @@ const TiendaLayout = ({ children }) => {
           </li>
           <li>
             {" "}
-            <Link href="/tienda/categorys/cellphones">Celulares</Link>{" "}
+            <Link href="/tienda/categorys/cellPhones">Celulares</Link>{" "}
           </li>
         </ul>
       </nav>
